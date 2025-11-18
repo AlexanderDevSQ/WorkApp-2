@@ -1,0 +1,7 @@
+{
+  "name": "WorkApp-Dad",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
